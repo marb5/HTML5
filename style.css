@@ -1,0 +1,9 @@
+﻿.hide {
+    text-indent: -99999px;
+    height: 0px;
+}
+
+#copyright {
+    color: red;
+    text-shadow: red 0px 0px 2px;
+}
